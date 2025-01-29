@@ -17,3 +17,5 @@ The **Diabetic Foot Ulcer Classification** project is designed to classify diabe
 - **Matplotlib**: Library for creating static, animated, and interactive visualizations in Python.
 - **NumPy**: Fundamental package for numerical computations in Python.
 - **Pandas**: Data analysis and manipulation tool.
+
+**Link of Dateset** https://www.kaggle.com/datasets/laithjj/diabetic-foot-ulcer-dfu
